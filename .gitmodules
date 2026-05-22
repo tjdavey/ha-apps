@@ -1,0 +1,3 @@
+[submodule "SunGather-App/SunGather"]
+	path = SunGather-App/SunGather
+	url = https://github.com/bohdan-s/SunGather
