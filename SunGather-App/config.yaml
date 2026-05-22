@@ -1,6 +1,6 @@
 name: "SunGather App"
 version: "1.0.0"
-slug: sungather
+slug: sungather-app
 description: "Extract Sungrow data from local Inverter - Temporary App for Home Assistant until Add-on is updated"
 arch: 
   - armhf
