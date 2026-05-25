@@ -8,4 +8,6 @@ This repository contains the following apps
 
 ### [SunGather App](./Sungather-App)
 
-A temporary copy of the 
+This is a temporary copy of [bohdan-s's](https://github.com/bohdan-s) [SunGather Add-on](https://github.com/bohdan-s/hassio-repository) with support for Home Assistant's new 'App' format. This will be retired when the official repository is updated. 
+
+For documentation on SunGather see the [original repository](https://github.com/bohdan-s/hassio-repository). 
